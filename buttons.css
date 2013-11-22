@@ -22,6 +22,46 @@ button.facebook:hover, button.facebook:focus, .button.facebook:hover, .button.fa
     background-color: #133783;
 }
 
+button.googleplus, .button.googleplus {
+  color: #ffffff; 
+  background-color: #dd4b39;
+}
+
+button.googleplus:hover, button.googleplus:focus, .button.googleplus:hover, .button.googleplus:focus {
+    color: #ffffff;
+    background-color: #C4321F;
+}
+
+button.github, .button.github {
+  color: #ffffff; 
+  background-color: #f2f2f2;
+}
+
+button.github:hover, button.github:focus, .button.github:hover, .button.github:focus {
+    color: #ffffff;
+    background-color: #e6e6e6;
+}
+
+button.path, .button.path {
+  color: #ffffff; 
+  background-color: #ee3423;
+}
+
+button.path:hover, button.path:focus, .button.path:hover, .button.path:focus {
+    color: #ffffff;
+    background-color: #DB2818;
+}
+
+button.dropbox, .button.dropbox {
+  color: #ffffff; 
+  background-color: #2e95e0;
+}
+
+button.dropbox:hover, button.dropbox:focus, .button.dropbox:hover, .button.dropbox:focus {
+    color: #ffffff;
+    background-color: #187CCC;
+}
+
 button.instagram, .button.instagram {
   color: #ffffff; 
   background-color: #5c88ab;

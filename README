@@ -1,7 +1,7 @@
 Foundation Button Pack
 ================================
 
-This is a button pack for the Zurb Foundation framework, it adds 9 new buttons in this version including:
+This is a button pack for the Zurb Foundation framework, it adds 13 new buttons in this version including:
 
 * warning
 * facebook
@@ -12,6 +12,10 @@ This is a button pack for the Zurb Foundation framework, it adds 9 new buttons i
 * pinterest
 * linkedin
 * skype
+* dropbox
+* google plus
+* path
+* github
 
 
 Using the pack
