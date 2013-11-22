@@ -1,0 +1,93 @@
+/* Generic Button Additions */
+
+button.warning, .button.warning {
+  color: #ffffff; 
+  background-color: #feb41c;
+}
+
+button.warning:hover, button.warning:focus, .button.warning:hover, .button.warning:focus{
+  color: #ffffff; 
+  background-color: #e09600;
+}
+
+/* Social Buttons */
+
+button.facebook, .button.facebook {
+  color: #ffffff; 
+  background-color: #2b4b90;
+}
+
+button.facebook:hover, button.facebook:focus, .button.facebook:hover, .button.facebook:focus {
+    color: #ffffff;
+    background-color: #133783;
+}
+
+button.instagram, .button.instagram {
+  color: #ffffff; 
+  background-color: #5c88ab;
+}
+
+button.instagram:hover, button.instagram:focus, .button.instagram:hover, .button.instagram:focus {
+    color: #ffffff;
+    background-color: #3f729b;
+}
+
+button.tumblr, .button.tumblr {
+  color: #ffffff; 
+  background-color: #34526e;
+}
+
+button.tumblr:hover, button.tumblr:focus, .button.tumblr:hover, .button.tumblr:focus {
+    color: #ffffff;
+    background-color: #2a4763;
+}
+
+button.skype, .button.skype {
+  color: #ffffff; 
+  background-color: #43bbe8;
+}
+
+button.skype:hover, button.skype:focus, .button.skype:hover, .button.skype:focus {
+    color: #ffffff;
+    background-color: #00aff0;
+}
+
+button.twitter, .button.twitter {
+  color: #ffffff; 
+  background-color: #1c95d0;
+}
+
+button.twitter:hover, button.twitter:focus, .button.twitter:hover, .button.twitter:focus {
+    color: #ffffff;
+    background-color: #0271bf;
+}
+
+button.pinterest, .button.pinterest {
+  color: #ffffff; 
+  background-color: #c51e25;
+}
+
+button.pinterest:hover, button.pinterest:focus, .button.pinterest:hover, .button.pinterest:focus {
+    color: #ffffff;
+    background-color: #ab171e;
+}
+
+button.flickr, .button.flickr {
+  color: #ffffff; 
+  background-color: #f63198;
+}
+
+button.flickr:hover, button.flickr:focus, .button.flickr:hover, .button.flickr:focus {
+    color: #ffffff;
+    background-color: #ff0084;
+}
+
+button.linkedin, .button.linkedin {
+  color: #ffffff; 
+  background-color: #60a9ce;
+}
+
+button.linkedin:hover, button.linkedin:focus, .button.linkedin:hover, .button.linkedin:focus {
+    color: #ffffff;
+    background-color: #4393bb;
+}

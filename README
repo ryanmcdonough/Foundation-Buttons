@@ -1,0 +1,28 @@
+Foundation Button Pack
+================================
+
+This is a button pack for the Zurb Foundation framework, it adds 13 new buttons in this version including:
+
+* warning
+* facebook
+* twitter
+* instagram
+* tumblr
+* flickr
+* pinterest
+* linkedin
+* skype
+
+
+Using the pack
+-------------------------
+
+Simply add a reference to the buttons.css file and then add the required class to your button or link.
+
+E.g. : <a class='button facebook' href='#'>Facebook</a>
+
+
+Examples
+-------------------------
+
+All the buttons are in use in the demo folder.
